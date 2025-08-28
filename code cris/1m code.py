@@ -1,0 +1,12 @@
+nome=input("qual e seu nome? ")
+musica=("qual e sua musica fav? ")
+gostar=input("oq vc gosta de fazer? ")
+idade=input("qual e sua idade")
+print("--------")
+print("conpleto")
+print("--------")
+
+print("o nome dele e",nome)
+print(musica)
+print(gosta)
+print(idade)
